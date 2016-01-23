@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ActionBarMenu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="menu_settings">Settings</string>
+    <string name="Fragmenttab1">This is ActionBarSherlock Fragment 1</string>
+    <string name="Fragmenttab2">This is ActionBarSherlock Fragment 2</string>
+    <string name="Fragmenttab3">This is ActionBarSherlock Fragment 3</string>
+
+</resources>
